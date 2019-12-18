@@ -6,6 +6,6 @@
     <option name="nodeInterpreter" value="/usr/local/bin/node" />
     <option name="pluginEnabled" value="true" />
     <option name="autoFix" value="true" />
-    <option name="ext" value=".ts,.js" />
+    <option name="ext" value=".ts,.js,.tsx,.jsx" />
   </component>
 </project>

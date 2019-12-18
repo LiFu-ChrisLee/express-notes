@@ -8,7 +8,7 @@ require('ts-node/register');
 
 const debug = require('debug')('demo:server');
 const http = require('http');
-const app = require('../app.ts');
+const app = require('../app');
 
 /**
  * Normalize a port into a number, string, or false.

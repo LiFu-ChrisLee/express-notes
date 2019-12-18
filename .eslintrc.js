@@ -5,7 +5,8 @@ module.exports = {
     node: true,
   },
   extends: [
-    'airbnb-base'
+    'airbnb-base',
+    'plugin:react/recommended'
   ],
   globals: {
     Atomics: 'readonly',
@@ -17,7 +18,7 @@ module.exports = {
   },
   plugins: [
     '@typescript-eslint',
-    'prettier',
+    'prettier'
   ],
   rules: {
     "prettier/prettier": [
