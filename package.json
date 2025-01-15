@@ -8,9 +8,9 @@
     "lint": "npx eslint --quiet --ext .js,.ts ."
   },
   "dependencies": {
-    "cookie-parser": "~1.4.4",
+    "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
+    "express": "~4.21.2",
     "express-react-views": "^0.11.0",
     "http-errors": "~1.6.3",
     "less-middleware": "~2.2.1",
@@ -35,7 +35,7 @@
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.17.0",
-    "node-dev": "^4.0.0",
+    "node-dev": "^8.0.0",
     "prettier": "^1.19.1",
     "typescript": "^3.7.3"
   }
